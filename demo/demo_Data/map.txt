@@ -1,0 +1,67 @@
+#number of obstacles
+5
+# obstacle #0
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+-4.000000 4.000000
+4.000000 4.000000
+4.000000 -4.000000
+-4.000000 -4.000000
+# initial configuration
+4.100000 4.100000 0.000000
+# obstacle #0
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+-1.000000 15.000000
+1.000000 15.000000
+1.000000 -17.000000
+-1.000000 -17.000000
+# initial configuration
+60.000000 112.900000 0.000000
+# obstacle #1
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+-1.000000 17.000000
+1.000000 17.000000
+1.000000 -15.000000
+-1.000000 -15.000000
+# initial configuration
+30.000000 15.00009 0.000000
+# obstacle #2
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+-1.000000 20.000000
+1.000000 20.000000
+1.000000 -15.000000
+-1.000000 -15.000000
+# initial configuration
+95.000000 45.000000 0.000000
+# obstacle #3
+# number of polygons
+1
+# polygon #0
+# number of vertices
+4
+# vertices
+-20.000000 1.000000
+15.000000 1.000000
+15.000000 -1.000000
+-20.000000 -1.000000
+# initial configuration
+48.000000 64.000000 0.000000

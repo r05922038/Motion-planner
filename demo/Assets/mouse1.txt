@@ -1,0 +1,63 @@
+# number of robots
+1
+# robot #0
+# number of polygons
+6
+# polygon #0
+# number of vertices
+4
+# vertices
+7.000000 3.500000
+-3.000000 3.500000
+-3.000000 -3.500000
+7.000000 -3.500000
+# polygon #1
+# number of vertices
+4
+# vertices
+-4.500000 1.500000
+-3.000000 1.500000
+-3.000000 -1.500000
+-4.500000 -1.500000
+# polygon #2
+# number of vertices
+4
+# vertices
+7.000000 1.500000
+8.500000 1.500000
+8.500000 -1.500000
+7.000000 -1.500000
+# polygon #3
+# number of vertices
+4
+# vertices
+0.500000 2.000000
+3.500000 2.000000
+3.500000 -2.000000
+0.500000 -2.000000
+# polygon #4
+# number of vertices
+4
+# vertices
+-1.000000 -3.500000
+5.000000 -3.500000
+5.000000 -6.000000
+-1.000000 -6.000000
+# polygon #5
+# number of vertices
+4
+# vertices
+8.500000 10.000000
+11.000000 10.000000
+11.000000 -6.000000
+8.500000 -6.000000
+# initial configuration
+70.000000 100.000000 0.000000
+# goal configuration
+80.000000 20.000000 60.000000
+# number of control points
+2 
+# control point #0
+6.000000 0.000000
+# control point #1
+-2.000000 0.000000

@@ -1,0 +1,63 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\GoKit.dll (this message is harmless)
+Loading C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\GoKit.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\System.Core.dll (this message is harmless)
+Futile: Display scale is 1.333333
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Futile: Resource scale is 1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Futile: Resource suffix is -res1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+FScreen: Screen size in pixels is (640px,480px)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+FScreen: Screen size in points is (480,360)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+FScreen: Origin is at (0,0)
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+FScreen: Initial orientation is Landscape
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+480
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: C:\Users\tina\Documents\ReadFile\Motion_planner_Data\Managed\System.dll (this message is harmless)
+the number of nodes in pathT : 248
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+total time for BFS_and_ShowPath (sec) : 0.100854
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
